@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+}
+
+.nav {
+  border: 1px solid;
+  display: flex;
+  justify-content: space-between;
+  background-color: #cc0000;
+  padding: 0;
+  margin: 0;
+}
+
+.nav ul {
+  /* border: 1px solid; */
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+.nav ul li {
+  display: inline;
+  padding: 5px;
+  color: #fff;
+}
+
+.nav .links {
+  /* border: 1px solid red; */
+}
