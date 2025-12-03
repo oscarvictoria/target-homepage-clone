@@ -84,12 +84,20 @@ body {
 }
 
 .home-page .categories img {
+  /* border: 2px solid; */
   height: 100px;
   width: 100px;
 }
 
+.home-page .categories div {
+  /* border: 2px solid green; */
+}
+
 .home-page .categories span {
-  padding: 10px 30px;
+  padding: 10px;
+  display: inline-block;
+  width: 65%; /* Now you can set the width */
+  text-align: center;
 }
 
 .home-page .card {
