@@ -83,6 +83,15 @@ body {
   height: 200px;
 }
 
+.home-page .categories img {
+  height: 100px;
+  width: 100px;
+}
+
+.home-page .categories span {
+  padding: 10px 30px;
+}
+
 .home-page .card {
   background-color: teal;
   display: flex;
